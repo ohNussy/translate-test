@@ -1,0 +1,345 @@
+
+msgid "CONTAINER_COLOR"
+msgstr "<color=#{1}>{0}</color>"
+
+msgid "CONTAINER_SIZE"
+msgstr "<size={1}>{0}</size>"
+
+msgid "TEXT_AGREE_EULA"
+msgstr "I agree with the EULA."
+
+msgid "TEXT_ALERT_ABOUT_BESTSCORE"
+msgstr "<color=#F90><size=24>Best Score</size></color>__This is your best score.__Score limit is decided by dungeon difficulty."
+
+msgid "TEXT_ALERT_ABOUT_CURRENT_FLOOR"
+msgstr "<color=#F90><size=24>Floor</size></color>__The level in which your character stay currently."
+
+msgid "TEXT_ALERT_ABOUT_CURRENT_SCORE"
+msgstr "<color=#F90><size=24>Score</size></color>__Your character's current score."
+
+msgid "TEXT_ALERT_ABOUT_FOD"
+msgstr "<color=#F90><size=24>Flags of death</size></color>__<color=#F90>Flags of death</color> are used for remodel any job in lab."
+
+msgid "TEXT_ALERT_ABOUT_OFFLINE_MODE"
+msgstr "You can play Buriedbornes without network after starting on newest version with network.__(* You can not use any functions that need network like Ranking.)"
+
+msgid "TEXT_ALERT_ABOUT_SEASONPOINT"
+msgstr "<color=#F90><size=24>Season Point</size></color>__You can earn <color=#F90>Season Point</color> only during the event period.__ You can pay Season Point to gain season event rewards.__ You can not earn Season Point outside event period."
+
+msgid "TEXT_ALERT_ABOUT_SOULSTONES"
+msgstr "<color=#F90><size=24>Soulstones</size></color>__<color=#F90>Soulstones</color> are used for some purpose. (ex. Unlock new job, reroll drop items, etc...)"
+
+msgid "TEXT_ALERT_AFTER_CLEAR_CACHE"
+msgstr "Clearing cache successful."
+
+msgid "TEXT_ALERT_FINISH_LOGIN"
+msgstr "Login successful!"
+
+msgid "TEXT_ALERT_INPUT_PASSWORD"
+msgstr "Please input your Password."
+
+msgid "TEXT_ALERT_INPUT_USERID"
+msgstr "Please input your UserID."
+
+msgid "TEXT_BODY_ABOUT_LOGIN"
+msgstr "You can use this function to move your save data from other devices.__Please read about device transfer for more detail."
+
+msgid "TEXT_BODY_NOW_LOADING"
+msgstr "Now Loading..."
+
+msgid "TEXT_BODY_PROLOGUE"
+msgstr "The oldest and most abhorrent__Prophecy has become reality.____Ancient Overlord was revived from the grave for world conquest.____Kingdoms concluded a cease‐fire agreement and oppose him together, but they lost to __<color=#F33>''Buriedbornes''</color>__... army can revive forever ...____Many of heroes died out and mankind trembled in despair.____Remaining method for mankind is only __<color=#F33>''Buriedbornes''</color>__......____Mankind have learnt to use corpses for war.____Now, War without end and relief between the <color=#F33>''Buriedbornes''</color> began."
+
+msgid "TEXT_CONFIRM_OFFLINE_MODE"
+msgstr "Are you sure you play on Offline-Mode?____* You need to launch Buriedbornes once to use Offline-Mode.__You can not use any features using network in Offline-Mode. (Like Ranking, Roaming Coprses, PvP etc...)"
+
+msgid "TEXT_CONFIRM_OPEN_URL"
+msgstr "Are you sure you open this url?____{0}__{1}"
+
+msgid "TEXT_CONFIRM_OVERRIDE_BY_BACKUP"
+msgstr "Are you sure you override your data with this?"
+
+msgid "TEXT_DIALOG_COMMON_ERROR1"
+msgstr "Error Code: {0}"
+
+msgid "TEXT_DIALOG_COMMON_ERROR2"
+msgstr "{0}__If problems still persist, please contact me with your UserID."
+
+msgid "TEXT_ERROR_BEGIN_SESSION"
+msgstr "Failed to begin connection."
+
+msgid "TEXT_ERROR_FIND_DATA"
+msgstr "Failed to find data."
+
+msgid "TEXT_ERROR_GET_ASSET_DATA"
+msgstr "Failed to get asset data."
+
+msgid "TEXT_ERROR_GET_DATA"
+msgstr "Failed to get data."
+
+msgid "TEXT_ERROR_GET_LANG_DATA"
+msgstr "Failed to get language data."
+
+msgid "TEXT_ERROR_GET_LOCAL_SERVER_DATA"
+msgstr "Failed to get server data in local."
+
+msgid "TEXT_ERROR_GET_MASTER_DATA"
+msgstr "Failed to get master data."
+
+msgid "TEXT_ERROR_GET_PURCHASE_DATA"
+msgstr "Failed to get purchase data."
+
+msgid "TEXT_ERROR_GET_SERVER_DATA"
+msgstr "Failed to get server data."
+
+msgid "TEXT_ERROR_GET_SERVER_TIME"
+msgstr "Failed to get server time."
+
+msgid "TEXT_ERROR_GET_USER_DATA"
+msgstr "Failed to get user data."
+
+msgid "TEXT_ERROR_IOS_ISOLATION"
+msgstr "Sorry but you can not log in to the server from iOS with account that you log in to the server from Non-iOS platform."
+
+msgid "TEXT_ERROR_NEW_VERSION"
+msgstr "New version has been released.__Please Download Recent version."
+
+msgid "TEXT_ERROR_NO_OFFLINE_IN_WEB"
+msgstr "You can not use Offline-Mode in Web browser edition."
+
+msgid "TEXT_ERROR_ONCE_LAUNCH_ONLINE"
+msgstr "You have to launch Buriedbornes with network once for using Offline-mode."
+
+msgid "TEXT_ERROR_OPEN_DATA"
+msgstr "Failed to open data."
+
+msgid "TEXT_ERROR_OPEN_LANG_DATA"
+msgstr "Failed to open language data."
+
+msgid "TEXT_ERROR_SAVE_DATA"
+msgstr "Failed to save data."
+
+msgid "TEXT_ERROR_SAVE_USER_DATA"
+msgstr "Failed to save your data!__Please restart your app for preserving your data."
+
+msgid "TEXT_ERROR_UNDER_MAINTENANCE"
+msgstr "Server is under maintenance. Please wait a while or play with offline-mode. (Lanching app without network will activate offline-mode automatically.)"
+
+msgid "TEXT_LINK_EULA"
+msgstr "End-User license agreements"
+
+msgid "TEXT_RESTART_FOR_WEBGL"
+msgstr "Please reload(F5) your page."
+
+msgid "URL_ABOUT_LOGIN"
+msgstr "http://b2.nussygame.com/about-login2"
+
+msgid "URL_ARTIST"
+msgstr "http://www.pixiv.net/member.php?id=5887541"
+
+msgid "URL_CONTACT"
+msgstr "http://nussygame.com/contact3"
+
+msgid "URL_EULA"
+msgstr "http://b2.nussygame.com/eula-en"
+
+msgid "URL_FAN_ART"
+msgstr "http://b2.nussygame.com/fanart"
+
+msgid "URL_SHORT_STORY"
+msgstr "http://b2.nussygame.com/story"
+
+msgid "WORD_ABOUT_OFFLINE_MODE"
+msgstr "About Offline-Mode"
+
+msgid "WORD_ACCEPT"
+msgstr "Accept"
+
+msgid "WORD_BTN_DO_VERSION_UP"
+msgstr "Go to Update"
+
+msgid "WORD_CANCEL"
+msgstr "Cancel"
+
+msgid "WORD_CLEAR_CACHE"
+msgstr "Clear Cache"
+
+msgid "WORD_CLOSE"
+msgstr "Close"
+
+msgid "WORD_CONFIRMED"
+msgstr "Confirm"
+
+msgid "WORD_DO_CONFIRM"
+msgstr "Confirm"
+
+msgid "WORD_DO_LOGIN"
+msgstr "Login to Server"
+
+msgid "WORD_GAME_START"
+msgstr "Game Start"
+
+msgid "WORD_IGNORE"
+msgstr "Ignore"
+
+msgid "WORD_LAST_DAY"
+msgstr "@{0}day"
+
+msgid "WORD_LATER"
+msgstr "Later"
+
+msgid "WORD_LOGIN"
+msgstr "Account restoration"
+
+msgid "WORD_LOGIN_TITLE"
+msgstr "- Account restoration -"
+
+msgid "WORD_NO"
+msgstr "No"
+
+msgid "WORD_OK"
+msgstr "OK"
+
+msgid "WORD_OPEN_URL"
+msgstr "Open URL"
+
+msgid "WORD_PASSWORD"
+msgstr "Password"
+
+msgid "WORD_PROLOGUE"
+msgstr "Prologue"
+
+msgid "WORD_READ_ABOUT_LOGIN"
+msgstr "Read Detail of Server Login"
+
+msgid "WORD_RESTART_APP"
+msgstr "Restart App"
+
+msgid "WORD_STOP"
+msgstr "Cancel"
+
+msgid "WORD_SUPPORT"
+msgstr "Support"
+
+msgid "WORD_TITLE_NEW_VERSION"
+msgstr "New Version detected!"
+
+msgid "WORD_TITLE_URL_ABOUT_LOGIN"
+msgstr "About Login System"
+
+msgid "WORD_TITLE_URL_ARTIST"
+msgstr "Pixiv - とり夫 -"
+
+msgid "WORD_TITLE_URL_CONTACT"
+msgstr "Contact form"
+
+msgid "WORD_YES"
+msgstr "Yes"
+
+msgid "WORD_SELECT"
+msgstr "Select"
+
+msgid "TEXT_ALERT_FOR_TRANSLATE_VOLUNTEER"
+msgstr "Buriedbornes has some wrong translation because of personal develop.__If you can, please join us for translation volunteer!__Thank you for playing!"
+
+msgid "URL_FOR_TRANSLATE_VOLUNTEER"
+msgstr "https://docs.google.com/spreadsheets/d/1SJRUcXdzvocdMngmz98wAQJT58_t1Iq6Ix94zsjLLe4/edit#gid=1187670092"
+
+msgid "URL_NEWS_HEADLINE_RSS"
+msgstr "https://apps.nussygame.com/b2rpg2/home/rss"
+
+msgid "TEXT_ERROR_BANNED"
+msgstr "This account has been banned."
+
+msgid "TEXT_ERROR_GET_OLD_USER_DATA"
+msgstr "Failed to get old user data."
+
+msgid "TEXT_CONFIRM_OVERRIDE_CONNECTION"
+msgstr "Are you sure you override your account connection with current game user?"
+
+msgid "TEXT_ALERT_ABOUT_OVERRIDE_CONNECTION"
+msgstr "if you want to restore your data for this connection, please try the following procedure..__* re-install__* login with platform__* start game"
+
+msgid "URL_ABOUT_PLATFORM"
+msgstr "http://nussygame.com/platform"
+
+msgid "TEXT_CONFIRM_START_CONNECTION_AND"
+msgstr "Are you sure you connect your GooglePlay account to this game user?"
+
+msgid "TEXT_CONFIRM_START_CONNECTION_IOS"
+msgstr "Are you sure you connect your GameCenter account to this game user?"
+
+msgid "TEXT_CONFIRM_START_CONNECTION_WEB"
+msgstr "Are you sure you connect your mogera.jp account to this game user?"
+
+msgid "TEXT_ALERT_ABOUT_GOLDSHARD"
+msgstr "<color=#F90><size=24>Gold Shard</size></color>__You can pay it to earn Convenient items. (ex. Character limit, Lab parts limit, etc...)"
+
+msgid "WORD_BTN_PLATFORM_LOGIN_ANDROID"
+msgstr "Login with Game Service"
+
+msgid "WORD_BTN_PLATFORM_LOGOUT_ANDROID"
+msgstr "Logout from Game Service"
+
+msgid "WORD_BTN_PLATFORM_LOGIN_IOS"
+msgstr "Login with GameCenter"
+
+msgid "WORD_BTN_PLATFORM_LOGOUT_IOS"
+msgstr "Logout from GameCenter"
+
+msgid "WORD_BTN_PLATFORM_LOGIN_WEBGL"
+msgstr "Login with mogera.jp"
+
+msgid "WORD_BTN_PLATFORM_LOGOUT_WEBGL"
+msgstr "Logout from mogera.jp"
+
+msgid "TEXT_CONFIRM_LOGIN_PLATFORM"
+msgstr "Are you sure you connect your platform account to this game user?__* With this, you can store your save data on the game server and use server service like ranking."
+
+msgid "TEXT_CONFIRM_LOGOUT_PLATFORM"
+msgstr "Are you sure you disconnect your platform account from this game user?__* With this, you can not store your save data on the game server and use server service like ranking."
+
+msgid "WORD_RECENT"
+msgstr "Recent"
+
+msgid "WORD_TRANSFER_DEVICE"
+msgstr "Load data from server"
+
+msgid "TEXT_ALERT_LOGOUT_PLATFORM"
+msgstr "Disconnect successful."
+
+msgid "WORD_DEVICE_TRANSFER"
+msgstr "Device Transfer"
+
+msgid "WORD_READ_ABOUT_DEVICE_TRANFER"
+msgstr "Read Detail of Server Login"
+
+msgid "TEXT_ALERT_ALREADY_LOGIN"
+msgstr "platform Login is active."
+
+msgid "TEXT_ALERT_DATA_MOVE_DELAY"
+msgstr "Please retry after a while."
+
+msgid "TEXT_ALERT_NOT_PLATFORM_LOGIN"
+msgstr "You need to connect your game user with platform."
+
+msgid "TEXT_CONFIRM_DOWNLOAD_LAST_UPDATE"
+msgstr "Last Update： {0}__Are you sure you override your client with this data?"
+
+msgid "WORD_CONFIRM"
+msgstr "Confirm"
+
+msgid "TEXT_ALERT_RANKING_OUT_OF_SPAN"
+msgstr "Currently ranking is being calculated.__Open: {0}"
+
+msgid "TEXT_ALERT_VERSUS_OUT_OF_SPAN"
+msgstr "Currently ''Palace of Karma'' is preparing.__Open: {0}"
+
+msgid "WORD_NOT_PLANNED"
+msgstr "Pending"
+
+msgid "WORD_DISPLAY"
+msgstr "Display"
+
+msgid "WORD_POPUP_ICON"
+msgstr "Battle Icon"

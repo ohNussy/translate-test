@@ -1,0 +1,345 @@
+
+msgid "CONTAINER_COLOR"
+msgstr "<color=#{1}>{0}</color>"
+
+msgid "CONTAINER_SIZE"
+msgstr "<size={1}>{0}</size>"
+
+msgid "TEXT_AGREE_EULA"
+msgstr "我同意EULA。"
+
+msgid "TEXT_ALERT_ABOUT_BESTSCORE"
+msgstr "<color=#F90><size=24>最佳得分</size></color>__这是你的最好成绩.__得分限制由地下城的难度决定。"
+
+msgid "TEXT_ALERT_ABOUT_CURRENT_FLOOR"
+msgstr "<color=#F90><size=24>地板</size></color>__该级别中你的角色目前留下来。"
+
+msgid "TEXT_ALERT_ABOUT_CURRENT_SCORE"
+msgstr "<color=#F90><size=24>得分了</size></color>__你的角色的最新比分。"
+
+msgid "TEXT_ALERT_ABOUT_FOD"
+msgstr "<color=#F90><size=24>死亡的标志</size></color>__<color=#F90>死亡的标志</color>被用于改造在实验室的任何作业。"
+
+msgid "TEXT_ALERT_ABOUT_OFFLINE_MODE"
+msgstr "您可以在启动与网络.__最新版本后发挥Buriedbornes没有网络（*您不能使用需要网络就像任何排序功能。）"
+
+msgid "TEXT_ALERT_ABOUT_SEASONPOINT"
+msgstr "<color=#F90><size=24>季点</size></color>__您只能在活动期间.__您可以支付季点获得赛季奖励活动，您.__挣不了季节外点活动期间获得<color=#F90>季点</color>。"
+
+msgid "TEXT_ALERT_ABOUT_SOULSTONES"
+msgstr "<color=#F90><size=24>魂石</size></color>__<color=#F90>魂石</color>被用于一些目的。 （例如，解锁新的工作，重投掉落的物品，等...）"
+
+msgid "TEXT_ALERT_AFTER_CLEAR_CACHE"
+msgstr "清除缓存中成功。"
+
+msgid "TEXT_ALERT_FINISH_LOGIN"
+msgstr "登陆成功！"
+
+msgid "TEXT_ALERT_INPUT_PASSWORD"
+msgstr "请输入您的密码。"
+
+msgid "TEXT_ALERT_INPUT_USERID"
+msgstr "请输入您的用户名。"
+
+msgid "TEXT_BODY_ABOUT_LOGIN"
+msgstr "您可以使用此功能从其他设备将您的数据保存.__请仔细阅读有关详细设备转移。"
+
+msgid "TEXT_BODY_NOW_LOADING"
+msgstr "现在载入中......"
+
+msgid "TEXT_BODY_PROLOGUE"
+msgstr "最古老和最可恶__ 预言已成为现实。__ __ 古霸王被从坟墓中征服世界的复兴。__ __ 三国签订了停火协议，并反对他在一起，但他们输给了__ <color=#F33>“Buriedbornes”</color>__ ...军队能够永远复活...__ __ 许多英雄死了，人类在绝望中发抖。__ __ 剩余法为人类只有__ <color=#F33>“Buriedbornes”</color>__ ......__ __ 人类已经学会了利用尸体进行战争。__ __ 现在，战争没有<color=#F33>之间到底救灾“Buriedbornes”</color>开始。"
+
+msgid "TEXT_CONFIRM_OFFLINE_MODE"
+msgstr "你确定你在离线模式玩？____ *您需要启动一次Buriedbornes使用离线模式.__不能使用在离线模式下，使用网络的任何功能。 （排名一样，漫游Coprses，PVP等...）"
+
+msgid "TEXT_CONFIRM_OPEN_URL"
+msgstr "你确定你打开这个网址？____ {0} __ {1}"
+
+msgid "TEXT_CONFIRM_OVERRIDE_BY_BACKUP"
+msgstr "你确定你这个覆盖你的数据？"
+
+msgid "TEXT_DIALOG_COMMON_ERROR1"
+msgstr "Error Code: {0}"
+
+msgid "TEXT_DIALOG_COMMON_ERROR2"
+msgstr "{0} __如果问题仍然存在，请与您的用户名与我联系。"
+
+msgid "TEXT_ERROR_BEGIN_SESSION"
+msgstr "未能开始连接。"
+
+msgid "TEXT_ERROR_FIND_DATA"
+msgstr "无法找到数据。"
+
+msgid "TEXT_ERROR_GET_ASSET_DATA"
+msgstr "无法获取资产数据。"
+
+msgid "TEXT_ERROR_GET_DATA"
+msgstr "无法获取的数据。"
+
+msgid "TEXT_ERROR_GET_LANG_DATA"
+msgstr "未能获得语言数据。"
+
+msgid "TEXT_ERROR_GET_LOCAL_SERVER_DATA"
+msgstr "无法获得本地服务器数据。"
+
+msgid "TEXT_ERROR_GET_MASTER_DATA"
+msgstr "无法获取主数据。"
+
+msgid "TEXT_ERROR_GET_PURCHASE_DATA"
+msgstr "未能获得购买数据。"
+
+msgid "TEXT_ERROR_GET_SERVER_DATA"
+msgstr "无法获取服务器数据。"
+
+msgid "TEXT_ERROR_GET_SERVER_TIME"
+msgstr "无法获取服务器时间。"
+
+msgid "TEXT_ERROR_GET_USER_DATA"
+msgstr "无法获取用户数据。"
+
+msgid "TEXT_ERROR_IOS_ISOLATION"
+msgstr "对不起，您无法登录到从iOS设备上登录到非iOS平台的服务器的服务器帐户。"
+
+msgid "TEXT_ERROR_NEW_VERSION"
+msgstr "新版本已经发布.__请下载最新版本。"
+
+msgid "TEXT_ERROR_NO_OFFLINE_IN_WEB"
+msgstr "不能在Web浏览器版使用离线模式。"
+
+msgid "TEXT_ERROR_ONCE_LAUNCH_ONLINE"
+msgstr "你有网络使用离线模式，推出Buriedbornes一次。"
+
+msgid "TEXT_ERROR_OPEN_DATA"
+msgstr "无法打开数据。"
+
+msgid "TEXT_ERROR_OPEN_LANG_DATA"
+msgstr "无法打开语言数据。"
+
+msgid "TEXT_ERROR_SAVE_DATA"
+msgstr "无法保存数据。"
+
+msgid "TEXT_ERROR_SAVE_USER_DATA"
+msgstr "无法保存您的数据！__请重新启动应用程序的保护您的数据。"
+
+msgid "TEXT_ERROR_UNDER_MAINTENANCE"
+msgstr "服务器正在维护中。请稍候片刻或离线模式下播放。 （Lanching应用，而无需网络会自动启动离线模式。）"
+
+msgid "TEXT_LINK_EULA"
+msgstr "最终用户许可协议"
+
+msgid "TEXT_RESTART_FOR_WEBGL"
+msgstr "请重新载入（F5）页面。"
+
+msgid "URL_ABOUT_LOGIN"
+msgstr "http://b2.nussygame.com/about-login2"
+
+msgid "URL_ARTIST"
+msgstr "http://www.pixiv.net/member.php?id=5887541"
+
+msgid "URL_CONTACT"
+msgstr "http://nussygame.com/contact3"
+
+msgid "URL_EULA"
+msgstr "http://b2.nussygame.com/eula-en"
+
+msgid "URL_FAN_ART"
+msgstr "http://b2.nussygame.com/fanart"
+
+msgid "URL_SHORT_STORY"
+msgstr "http://b2.nussygame.com/story"
+
+msgid "WORD_ABOUT_OFFLINE_MODE"
+msgstr "关于离线模式"
+
+msgid "WORD_ACCEPT"
+msgstr "接受"
+
+msgid "WORD_BTN_DO_VERSION_UP"
+msgstr "转到更新"
+
+msgid "WORD_CANCEL"
+msgstr "取消"
+
+msgid "WORD_CLEAR_CACHE"
+msgstr "清除缓存"
+
+msgid "WORD_CLOSE"
+msgstr "关"
+
+msgid "WORD_CONFIRMED"
+msgstr "确认"
+
+msgid "WORD_DO_CONFIRM"
+msgstr "确认"
+
+msgid "WORD_DO_LOGIN"
+msgstr "登录到服务器"
+
+msgid "WORD_GAME_START"
+msgstr "游戏开始"
+
+msgid "WORD_IGNORE"
+msgstr "忽视"
+
+msgid "WORD_LAST_DAY"
+msgstr "@ {0}天"
+
+msgid "WORD_LATER"
+msgstr "后来"
+
+msgid "WORD_LOGIN"
+msgstr "帐户恢复"
+
+msgid "WORD_LOGIN_TITLE"
+msgstr "- 帐户恢复 -"
+
+msgid "WORD_NO"
+msgstr "没有"
+
+msgid "WORD_OK"
+msgstr "好"
+
+msgid "WORD_OPEN_URL"
+msgstr "打开网址"
+
+msgid "WORD_PASSWORD"
+msgstr "密码"
+
+msgid "WORD_PROLOGUE"
+msgstr "序幕"
+
+msgid "WORD_READ_ABOUT_LOGIN"
+msgstr "读取服务器登录的详细信息"
+
+msgid "WORD_RESTART_APP"
+msgstr "重新启动应用程序"
+
+msgid "WORD_STOP"
+msgstr "取消"
+
+msgid "WORD_SUPPORT"
+msgstr "支持"
+
+msgid "WORD_TITLE_NEW_VERSION"
+msgstr "新版本检测！"
+
+msgid "WORD_TITLE_URL_ABOUT_LOGIN"
+msgstr "关于登录系统"
+
+msgid "WORD_TITLE_URL_ARTIST"
+msgstr "Pixiv - とり夫 -"
+
+msgid "WORD_TITLE_URL_CONTACT"
+msgstr "联系表"
+
+msgid "WORD_YES"
+msgstr "是"
+
+msgid "WORD_SELECT"
+msgstr "选择"
+
+msgid "TEXT_ALERT_FOR_TRANSLATE_VOLUNTEER"
+msgstr "Buriedbornes有一些错误的翻译因个人发展.__如果可以的话，请加入我们的志愿者翻译！__谢谢你玩！"
+
+msgid "URL_FOR_TRANSLATE_VOLUNTEER"
+msgstr "https://docs.google.com/spreadsheets/d/1SJRUcXdzvocdMngmz98wAQJT58_t1Iq6Ix94zsjLLe4/edit#gid=1187670092"
+
+msgid "URL_NEWS_HEADLINE_RSS"
+msgstr "https://apps.nussygame.com/b2rpg2/home/rss"
+
+msgid "TEXT_ERROR_BANNED"
+msgstr "此帐户已被禁止。"
+
+msgid "TEXT_ERROR_GET_OLD_USER_DATA"
+msgstr "无法获取旧用户数据。"
+
+msgid "TEXT_CONFIRM_OVERRIDE_CONNECTION"
+msgstr "你确定你覆盖当前的游戏用户帐户的连接？"
+
+msgid "TEXT_ALERT_ABOUT_OVERRIDE_CONNECTION"
+msgstr "如果你想恢复数据，此连接，请尝试以下步骤..__ *重新安装__ *登录与平台__ *开始游戏"
+
+msgid "URL_ABOUT_PLATFORM"
+msgstr "http://nussygame.com/platform"
+
+msgid "TEXT_CONFIRM_START_CONNECTION_AND"
+msgstr "您确定您的帐户GOOGLEPLAY连接到这个游戏的用户？"
+
+msgid "TEXT_CONFIRM_START_CONNECTION_IOS"
+msgstr "您确定您的GameCenter的帐户连接到该游戏的用户？"
+
+msgid "TEXT_CONFIRM_START_CONNECTION_WEB"
+msgstr "你确定你的mogera.jp帐户连接到这个游戏的用户？"
+
+msgid "TEXT_ALERT_ABOUT_GOLDSHARD"
+msgstr "<color=#F90><size=24>黄金碎片</size></color>__你可以支付其当季便利的项目。 （例如，字符数限制，实验室的部分限制，等...）"
+
+msgid "WORD_BTN_PLATFORM_LOGIN_ANDROID"
+msgstr "与游戏服务登录"
+
+msgid "WORD_BTN_PLATFORM_LOGOUT_ANDROID"
+msgstr "从游戏服务注销"
+
+msgid "WORD_BTN_PLATFORM_LOGIN_IOS"
+msgstr "与GameCenter的登录"
+
+msgid "WORD_BTN_PLATFORM_LOGOUT_IOS"
+msgstr "从GameCenter的注销"
+
+msgid "WORD_BTN_PLATFORM_LOGIN_WEBGL"
+msgstr "与mogera.jp登录"
+
+msgid "WORD_BTN_PLATFORM_LOGOUT_WEBGL"
+msgstr "从mogera.jp注销"
+
+msgid "TEXT_CONFIRM_LOGIN_PLATFORM"
+msgstr "你确定你的平台帐户连接到这个游戏的用户？__ *有了这个，你可以存储在游戏服务器上保存数据，并使用服务器服务类似排名。"
+
+msgid "TEXT_CONFIRM_LOGOUT_PLATFORM"
+msgstr "你确定你从这个游戏用户断开连接平台帐户？__ *有了这个，你不能存储你保存游戏服务器上的数据，并使用服务器服务类似排名。"
+
+msgid "WORD_RECENT"
+msgstr "最近"
+
+msgid "WORD_TRANSFER_DEVICE"
+msgstr "从服务器加载数据"
+
+msgid "TEXT_ALERT_LOGOUT_PLATFORM"
+msgstr "断开连接成功。"
+
+msgid "WORD_DEVICE_TRANSFER"
+msgstr "设备传输"
+
+msgid "WORD_READ_ABOUT_DEVICE_TRANFER"
+msgstr "读取服务器登录的详细信息"
+
+msgid "TEXT_ALERT_ALREADY_LOGIN"
+msgstr "平台登录激活。"
+
+msgid "TEXT_ALERT_DATA_MOVE_DELAY"
+msgstr "请稍后重试。"
+
+msgid "TEXT_ALERT_NOT_PLATFORM_LOGIN"
+msgstr "您需要将游戏用户与平台连接。"
+
+msgid "TEXT_CONFIRM_DOWNLOAD_LAST_UPDATE"
+msgstr "最后更新：{0} __你确定这个数据重写你的客户？"
+
+msgid "WORD_CONFIRM"
+msgstr "确认"
+
+msgid "TEXT_ALERT_RANKING_OUT_OF_SPAN"
+msgstr "目前排名正在计算.__打开：{0}"
+
+msgid "TEXT_ALERT_VERSUS_OUT_OF_SPAN"
+msgstr "目前，“噶宫”正在准备.__打开：{0}"
+
+msgid "WORD_NOT_PLANNED"
+msgstr "有待"
+
+msgid "WORD_DISPLAY"
+msgstr "显示"
+
+msgid "WORD_POPUP_ICON"
+msgstr "战图标"

@@ -1,0 +1,345 @@
+
+msgid "CONTAINER_COLOR"
+msgstr "<color=#{1}>{0}</color>"
+
+msgid "CONTAINER_SIZE"
+msgstr "<size={1}>{0}</size>"
+
+msgid "TEXT_AGREE_EULA"
+msgstr "Je suis d'accord avec le CLUF."
+
+msgid "TEXT_ALERT_ABOUT_BESTSCORE"
+msgstr "<color=#F90><size=24>Meilleur score</size></color>__Ceci est votre meilleure limite partition .__ Score est décidée par donjon difficulté."
+
+msgid "TEXT_ALERT_ABOUT_CURRENT_FLOOR"
+msgstr "<color=#F90><size=24>Sol</size></color>__Le niveau dans lequel votre personnage reste actuellement."
+
+msgid "TEXT_ALERT_ABOUT_CURRENT_SCORE"
+msgstr "<color=#F90><size=24>But</size></color>__score actuel de votre personnage."
+
+msgid "TEXT_ALERT_ABOUT_FOD"
+msgstr "<color=#F90><size=24>Drapeaux de la mort</size></color>__<color=#F90>Drapeaux de la mort</color> sont utilisés pour remodeler tout travail en laboratoire."
+
+msgid "TEXT_ALERT_ABOUT_OFFLINE_MODE"
+msgstr "Vous pouvez jouer Buriedbornes sans réseau après à partir de la nouvelle version avec le réseau .__ (* Vous ne pouvez pas utiliser toutes les fonctions qui ont besoin de réseau comme Classement.)"
+
+msgid "TEXT_ALERT_ABOUT_SEASONPOINT"
+msgstr "<color=#F90><size=24>Saison point</size></color>__Vous pouvez gagner <color=#F90>Saison point</color> seulement pendant la période de l'événement .__ Vous pouvez payer Saison Point à gagner des récompenses d'événements de la saison .__ Vous ne pouvez pas gagner Saison point période de l'événement extérieur."
+
+msgid "TEXT_ALERT_ABOUT_SOULSTONES"
+msgstr "<color=#F90><size=24>pierres d'âme</size></color>__<color=#F90>pierres d'âme</color> sont utilisés dans un but. (Ex. Débloquez nouvel emploi, relancer baisse articles, etc ...)"
+
+msgid "TEXT_ALERT_AFTER_CLEAR_CACHE"
+msgstr "Effacer la mémoire cache réussie."
+
+msgid "TEXT_ALERT_FINISH_LOGIN"
+msgstr "Connexion réussie!"
+
+msgid "TEXT_ALERT_INPUT_PASSWORD"
+msgstr "Veuillez saisir votre mot de passe."
+
+msgid "TEXT_ALERT_INPUT_USERID"
+msgstr "Veuillez saisir votre UserID."
+
+msgid "TEXT_BODY_ABOUT_LOGIN"
+msgstr "Vous pouvez utiliser cette fonction pour déplacer vos données de sauvegarde à partir d'autres appareils .__ S'il vous plaît lire sur le transfert de l'appareil pour plus de détails."
+
+msgid "TEXT_BODY_NOW_LOADING"
+msgstr "En cours de chargement..."
+
+msgid "TEXT_BODY_PROLOGUE"
+msgstr "La plus ancienne et la plus odieuse__ Prophecy est devenu réalité.__ __ Ancient Overlord a été relancé de la tombe pour la conquête du monde.__ __ Kingdoms ont conclu un accord de cessez-le-feu et lui opposent ensemble, mais ils ont perdu à__ <Color=#F33> ''Buriedbornes'' </color>__ ... L'armée peut faire revivre pour toujours ...__ __ Beaucoup de héros sont morts sur l'humanité et tremblaient dans le désespoir.__ __ Méthode restante pour l'humanité est seulement__ <Color=#F33> Buriedbornes </color>__ ......__ __ L'humanité a appris à utiliser des cadavres pour la guerre.__ __ Maintenant, la guerre sans fin et de secours entre le <color=#F33> ''Buriedbornes'' </color> a commencé."
+
+msgid "TEXT_CONFIRM_OFFLINE_MODE"
+msgstr "Etes-vous sûr que vous jouez sur Offline-Mode? ____ * Vous devez lancer Buriedbornes une fois pour utiliser Offline-Mode .__ Vous ne pouvez pas utiliser toutes les fonctionnalités utilisant le réseau en mode hors connexion-Mode. (Comme Classement, Roaming Coprses, etc PvP ...)"
+
+msgid "TEXT_CONFIRM_OPEN_URL"
+msgstr "Etes-vous sûr vous ouvrez cette url? ____ {0} __ {1}"
+
+msgid "TEXT_CONFIRM_OVERRIDE_BY_BACKUP"
+msgstr "Etes-vous sûr de passer outre vos données avec cela?"
+
+msgid "TEXT_DIALOG_COMMON_ERROR1"
+msgstr "Error Code: {0}"
+
+msgid "TEXT_DIALOG_COMMON_ERROR2"
+msgstr "{0} __ Si le problème persiste, s'il vous plaît me contacter avec votre UserID."
+
+msgid "TEXT_ERROR_BEGIN_SESSION"
+msgstr "Impossible de commencer la connexion."
+
+msgid "TEXT_ERROR_FIND_DATA"
+msgstr "Impossible de trouver des données."
+
+msgid "TEXT_ERROR_GET_ASSET_DATA"
+msgstr "Impossible d'obtenir les données d'actifs."
+
+msgid "TEXT_ERROR_GET_DATA"
+msgstr "Impossible d'obtenir les données."
+
+msgid "TEXT_ERROR_GET_LANG_DATA"
+msgstr "Impossible d'obtenir des données linguistiques."
+
+msgid "TEXT_ERROR_GET_LOCAL_SERVER_DATA"
+msgstr "Impossible d'obtenir les données du serveur en local."
+
+msgid "TEXT_ERROR_GET_MASTER_DATA"
+msgstr "Impossible d'obtenir les données de base."
+
+msgid "TEXT_ERROR_GET_PURCHASE_DATA"
+msgstr "Impossible d'obtenir les données d'achat."
+
+msgid "TEXT_ERROR_GET_SERVER_DATA"
+msgstr "Impossible d'obtenir les données du serveur."
+
+msgid "TEXT_ERROR_GET_SERVER_TIME"
+msgstr "Impossible d'obtenir le temps de serveur."
+
+msgid "TEXT_ERROR_GET_USER_DATA"
+msgstr "Impossible d'obtenir les données utilisateur."
+
+msgid "TEXT_ERROR_IOS_ISOLATION"
+msgstr "Désolé, mais vous ne pouvez pas vous connecter au serveur à partir d'iOS avec le compte que vous n'êtes pas connecté au serveur de la plateforme non-iOS."
+
+msgid "TEXT_ERROR_NEW_VERSION"
+msgstr "Nouvelle version a été publiée .__ S'il vous plaît Télécharger la version récente."
+
+msgid "TEXT_ERROR_NO_OFFLINE_IN_WEB"
+msgstr "Vous ne pouvez pas utiliser Offline-Mode dans l'édition du navigateur Web."
+
+msgid "TEXT_ERROR_ONCE_LAUNCH_ONLINE"
+msgstr "Vous devez lancer Buriedbornes avec le réseau une fois pour l'utilisation en mode hors connexion en mode."
+
+msgid "TEXT_ERROR_OPEN_DATA"
+msgstr "Impossible d'ouvrir les données."
+
+msgid "TEXT_ERROR_OPEN_LANG_DATA"
+msgstr "Impossible d'ouvrir les données linguistiques."
+
+msgid "TEXT_ERROR_SAVE_DATA"
+msgstr "Échec de l'enregistrement des données."
+
+msgid "TEXT_ERROR_SAVE_USER_DATA"
+msgstr "Impossible de sauvegarder vos données! __ S'il vous plaît redémarrer votre application pour la préservation de vos données."
+
+msgid "TEXT_ERROR_UNDER_MAINTENANCE"
+msgstr "Le serveur est en maintenance. S'il vous plaît attendre un certain temps ou de jouer avec le mode hors ligne. (Lanching application sans réseau activera en mode hors connexion en mode automatique.)"
+
+msgid "TEXT_LINK_EULA"
+msgstr "accords de licence utilisateur final"
+
+msgid "TEXT_RESTART_FOR_WEBGL"
+msgstr "S'il vous plaît recharger (F5) votre page."
+
+msgid "URL_ABOUT_LOGIN"
+msgstr "http://b2.nussygame.com/about-login2"
+
+msgid "URL_ARTIST"
+msgstr "http://www.pixiv.net/member.php?id=5887541"
+
+msgid "URL_CONTACT"
+msgstr "http://nussygame.com/contact3"
+
+msgid "URL_EULA"
+msgstr "http://b2.nussygame.com/eula-en"
+
+msgid "URL_FAN_ART"
+msgstr "http://b2.nussygame.com/fanart"
+
+msgid "URL_SHORT_STORY"
+msgstr "http://b2.nussygame.com/story"
+
+msgid "WORD_ABOUT_OFFLINE_MODE"
+msgstr "A propos de Offline-Mode"
+
+msgid "WORD_ACCEPT"
+msgstr "Acceptez"
+
+msgid "WORD_BTN_DO_VERSION_UP"
+msgstr "Aller à mettre à jour"
+
+msgid "WORD_CANCEL"
+msgstr "Annuler"
+
+msgid "WORD_CLEAR_CACHE"
+msgstr "Vider le cache"
+
+msgid "WORD_CLOSE"
+msgstr "Fermer"
+
+msgid "WORD_CONFIRMED"
+msgstr "Confirmer"
+
+msgid "WORD_DO_CONFIRM"
+msgstr "Confirmer"
+
+msgid "WORD_DO_LOGIN"
+msgstr "Connexion au serveur"
+
+msgid "WORD_GAME_START"
+msgstr "Début du jeu"
+
+msgid "WORD_IGNORE"
+msgstr "Ignorer"
+
+msgid "WORD_LAST_DAY"
+msgstr "@ {0} jour"
+
+msgid "WORD_LATER"
+msgstr "Plus tard"
+
+msgid "WORD_LOGIN"
+msgstr "restauration de compte"
+
+msgid "WORD_LOGIN_TITLE"
+msgstr "- restauration de compte -"
+
+msgid "WORD_NO"
+msgstr "Non"
+
+msgid "WORD_OK"
+msgstr "D'accord"
+
+msgid "WORD_OPEN_URL"
+msgstr "Ouvrir une URL"
+
+msgid "WORD_PASSWORD"
+msgstr "Mot de passe"
+
+msgid "WORD_PROLOGUE"
+msgstr "Prologue"
+
+msgid "WORD_READ_ABOUT_LOGIN"
+msgstr "Lire Détail de connexion au serveur"
+
+msgid "WORD_RESTART_APP"
+msgstr "Redémarrer App"
+
+msgid "WORD_STOP"
+msgstr "Annuler"
+
+msgid "WORD_SUPPORT"
+msgstr "Soutien"
+
+msgid "WORD_TITLE_NEW_VERSION"
+msgstr "Nouvelle version détectée!"
+
+msgid "WORD_TITLE_URL_ABOUT_LOGIN"
+msgstr "À propos Connexion Système"
+
+msgid "WORD_TITLE_URL_ARTIST"
+msgstr "Pixiv - とり夫 -"
+
+msgid "WORD_TITLE_URL_CONTACT"
+msgstr "Formulaire de contact"
+
+msgid "WORD_YES"
+msgstr "Oui"
+
+msgid "WORD_SELECT"
+msgstr "Sélectionner"
+
+msgid "TEXT_ALERT_FOR_TRANSLATE_VOLUNTEER"
+msgstr "Buriedbornes a une certaine mauvaise traduction en raison de personnels développer .__ Si vous pouvez, s'il vous plaît joindre à nous pour la traduction bénévole! __ Merci pour jouer!"
+
+msgid "URL_FOR_TRANSLATE_VOLUNTEER"
+msgstr "https://docs.google.com/spreadsheets/d/1SJRUcXdzvocdMngmz98wAQJT58_t1Iq6Ix94zsjLLe4/edit#gid=1187670092"
+
+msgid "URL_NEWS_HEADLINE_RSS"
+msgstr "https://apps.nussygame.com/b2rpg2/home/rss"
+
+msgid "TEXT_ERROR_BANNED"
+msgstr "Ce compte a été interdit."
+
+msgid "TEXT_ERROR_GET_OLD_USER_DATA"
+msgstr "Impossible d'obtenir les anciennes données de l'utilisateur."
+
+msgid "TEXT_CONFIRM_OVERRIDE_CONNECTION"
+msgstr "Êtes-vous sûr passer outre la connexion de compte avec l'utilisateur en cours de jeu?"
+
+msgid "TEXT_ALERT_ABOUT_OVERRIDE_CONNECTION"
+msgstr "si vous souhaitez restaurer vos données à cet égard, s'il vous plaît essayez la procédure suivante ..__ * re-installer __ * connexion avec la plate-forme __ * Démarrer le jeu"
+
+msgid "URL_ABOUT_PLATFORM"
+msgstr "http://nussygame.com/platform"
+
+msgid "TEXT_CONFIRM_START_CONNECTION_AND"
+msgstr "Etes-vous sûr que vous connectez votre compte GooglePlay à cet utilisateur de jeu?"
+
+msgid "TEXT_CONFIRM_START_CONNECTION_IOS"
+msgstr "Etes-vous sûr que vous connectez votre compte GameCenter à cet utilisateur de jeu?"
+
+msgid "TEXT_CONFIRM_START_CONNECTION_WEB"
+msgstr "Etes-vous sûr que vous connectez votre compte mogera.jp à cet utilisateur de jeu?"
+
+msgid "TEXT_ALERT_ABOUT_GOLDSHARD"
+msgstr "<color=#F90><size=24>or Shard</size></color>__Vous pouvez payer pour gagner des objets pratiques. (Ex. Limite de caractères, limitent les pièces de laboratoire, etc ...)"
+
+msgid "WORD_BTN_PLATFORM_LOGIN_ANDROID"
+msgstr "Connectez-vous avec le service de jeu"
+
+msgid "WORD_BTN_PLATFORM_LOGOUT_ANDROID"
+msgstr "Déconnexion de Game Service"
+
+msgid "WORD_BTN_PLATFORM_LOGIN_IOS"
+msgstr "Connectez-vous avec GameCenter"
+
+msgid "WORD_BTN_PLATFORM_LOGOUT_IOS"
+msgstr "Déconnexion de GameCenter"
+
+msgid "WORD_BTN_PLATFORM_LOGIN_WEBGL"
+msgstr "Connectez-vous avec mogera.jp"
+
+msgid "WORD_BTN_PLATFORM_LOGOUT_WEBGL"
+msgstr "Déconnexion de mogera.jp"
+
+msgid "TEXT_CONFIRM_LOGIN_PLATFORM"
+msgstr "Êtes-vous sûr de connecter votre compte de plate-forme à cet utilisateur de jeu? __ * Avec cela, vous pouvez stocker vos données de sauvegarde sur le serveur de jeu et utiliser le service de serveur comme le classement."
+
+msgid "TEXT_CONFIRM_LOGOUT_PLATFORM"
+msgstr "Êtes-vous sûr de déconnecter votre compte de la plate-forme de cet utilisateur de jeu? __ * Avec cela, vous ne pouvez pas stocker vos données de sauvegarde sur le serveur de jeu et utiliser le service de serveur comme le classement."
+
+msgid "WORD_RECENT"
+msgstr "Récent"
+
+msgid "WORD_TRANSFER_DEVICE"
+msgstr "Charger des données depuis un serveur"
+
+msgid "TEXT_ALERT_LOGOUT_PLATFORM"
+msgstr "Déconnexion réussie."
+
+msgid "WORD_DEVICE_TRANSFER"
+msgstr "Transfert de l'appareil"
+
+msgid "WORD_READ_ABOUT_DEVICE_TRANFER"
+msgstr "Lire Détail de connexion au serveur"
+
+msgid "TEXT_ALERT_ALREADY_LOGIN"
+msgstr "Connexion est la plate-forme active."
+
+msgid "TEXT_ALERT_DATA_MOVE_DELAY"
+msgstr "S'il vous plaît réessayer après un certain temps."
+
+msgid "TEXT_ALERT_NOT_PLATFORM_LOGIN"
+msgstr "Vous devez connecter votre utilisateur de jeu avec la plate-forme."
+
+msgid "TEXT_CONFIRM_DOWNLOAD_LAST_UPDATE"
+msgstr "Dernière mise à jour: {0} __ Etes-vous sûr que vous substituez votre client avec ces données?"
+
+msgid "WORD_CONFIRM"
+msgstr "Confirmer"
+
+msgid "TEXT_ALERT_RANKING_OUT_OF_SPAN"
+msgstr "Actuellement le classement est calculé .__ Ouvrir: {0}"
+
+msgid "TEXT_ALERT_VERSUS_OUT_OF_SPAN"
+msgstr "À l'heure actuelle « Palais de Karma » se prépare .__ Ouvrir: {0}"
+
+msgid "WORD_NOT_PLANNED"
+msgstr "en attendant"
+
+msgid "WORD_DISPLAY"
+msgstr "Afficher"
+
+msgid "WORD_POPUP_ICON"
+msgstr "bataille Icône"
