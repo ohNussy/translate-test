@@ -21,7 +21,7 @@ msgid "MasterDesc-DG000000"
 msgstr "''Alla fine mi hai trovato'' dice ridendo senza paura ''ora divorerò il tuo cadavere!''"
 
 msgid "MasterDesc-DG000001"
-msgstr ":@MasterDesc-DG000000"
+msgstr ":@MasterDesc-DG000000 testing!"
 
 msgid "MasterDesc-DG000002"
 msgstr ":@MasterDesc-DG000000"
