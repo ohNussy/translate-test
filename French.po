@@ -1,6 +1,6 @@
 
 msgid "ENDPOINT_LOCAL"
-msgstr "http://localhost/buriedbornes-server/"
+msgstr "http://localhost/buriedbornes-server/ #Frrrrrrrrrrrrr"
 
 msgid "ENDPOINT_PRODUCTION"
 msgstr "https://apps.nussygame.com/b2rpg/"
