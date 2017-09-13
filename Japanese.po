@@ -13994,7 +13994,7 @@ msgstr "なんだか このはかから あまいにおいが する きがす�
 msgid "MasterDesc-ESSE0902"
 msgstr "ハッピーハロウィン！"
 
-msgid "TEXT_NEWS_PH_TITLE_MINI_EVENT "
+msgid "TEXT_NEWS_PH_TITLE_MINI_EVENT"
 msgstr "ミニイベント__「{0}」かいさい！"
 
 msgid "TEXT_NEWS_PH_BODY_SEASON_EVENT_9_1"
